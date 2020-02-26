@@ -55,7 +55,7 @@ You should install and learn usage one of them before coming to the lecture.
 | Burak ŞEN #2 | [*LinkedIn*](https://www.linkedin.com/in/burak-%C5%9Fen-065b00156/) |
 | Serra ... #1 | [*LinkedIn*](https://www.linkedin.com) |
 | Yağmur ÇAĞLAR #1 | [*LinkedIn*](https://www.linkedin.com/in/ya%C4%9Fmur-%C3%A7a%C4%9Flar-88375918a/) |
-| Veysel Emre ... #1 | [*LinkedIn*](https://www.linkedin.com) |
+| Veysel Emre KÖSE #1 | [*LinkedIn*](https://www.linkedin.com/in/veysel-emre-k%C3%B6se-45abb9195/) |
 
 > **ProTip:** Instructions and Assistants are also problem setter.
 
