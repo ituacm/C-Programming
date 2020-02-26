@@ -58,3 +58,16 @@ You should install and learn usage one of them before coming to the lecture.
 | Veysel Emre ... #1 | [*LinkedIn*](https://www.linkedin.com) |
 
 > **ProTip:** Instructions and Assistants are also problem setter.
+
+## Important Link
+
+https://www.hackerrank.com/domains/c
+
+
+<p align="center">
+  <a href="//ituacm.com" target="_blank">
+    <img src="https://ituacm.com/wp-content/uploads/2017/08/itu-logo.png">
+  </a>
+</p>
+
+
