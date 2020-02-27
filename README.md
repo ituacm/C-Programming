@@ -22,6 +22,7 @@ You should install and learn usage one of them before coming to the lecture.
  - GCC - version : c99
  - Online Tools( cpp.sh, repl.it, codebunk.com )
  - Dev C
+ - CLion
 
 ## Program
 
@@ -43,7 +44,7 @@ You should install and learn usage one of them before coming to the lecture.
 | Name and Surname | Social  |
 |--|--|
 | Fatih AVCI #3 | [*LinkedIn*](https://www.linkedin.com) |
-| Metehan SEYRAN #3 | [*LinkedIn*](https://www.linkedin.com/in/metehan-seyran/)) |
+| Metehan SEYRAN #3 | [*LinkedIn*](https://www.linkedin.com/in/metehan-seyran/) |
 | Muhammed Salih YILDIZ #2 | [*LinkedIn*](https://www.linkedin.com/in/muhammed-salih-y%C4%B1ld%C4%B1z-b51991174/) |
 | Zafer YILDIZ #2 | [*LinkedIn*](https://www.linkedin.com/in/yildizzafer/) |
 | Başar DEMİR #2 | [*LinkedIn*](https://www.linkedin.com/in/basardemir/) |
