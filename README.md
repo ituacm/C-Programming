@@ -13,7 +13,7 @@ The goal of that course is give some basic informations about C Programming that
 
 ## Lecture Day and Time
 
-Every Tuesday, [ 17:45 - 19:15 ] or [ 18:15 - 19:30 ]
+Every Tuesday, [ 18:15 - 19:30 ]
 
 ## Choose IDE
 
