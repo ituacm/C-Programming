@@ -31,7 +31,7 @@ You should install and learn usage one of them before coming to the lecture.
 | 1.Hafta | Introduction(including scanf), Data Types, Variables, Operators, math.h library, intro to conditions(if-else) | Zafer Yıldız | 3-Q |
 | 2.Hafta | Continue to conditions(switch-case), repetition( for, while, do-while) and randomization(time.h,srand) | Muhammed Salih Yıldız | 5-Q |
 | 3.Hafta | Functions and Arrays(1D-2D) | Fatih Avcı | 3-Q |
-| 4.Hafta | Competition on Hackerrank | Yağmur Çağlar & Serra ... | 7-Q |
+| 4.Hafta | Competition on Hackerrank | Yağmur Çağlar & Serra BOZKURT | 7-Q |
 | 5.Hafta | Pointers & String | Başar Demir | 3-Q |
 | 6.Hafta | Dynamic Memory Allocation | Fatih Avcı | 1-Q |
 | 7.Hafta | Struct & File Operations | Metehan Seyran | 1-Q | 
